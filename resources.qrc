@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>icons/invalid.png</file>
+        <file>icons/emoji_icon.svg</file>
+        <file>icons/beaming-face-with-smiling-eyes-svgrepo-com.svg</file>
+        <file>icons/cat-face-svgrepo-com.svg</file>
+        <file>icons/cat-with-tears-of-joy-svgrepo-com.svg</file>
+        <file>icons/cat-with-wry-smile-svgrepo-com.svg</file>
+        <file>icons/confounded-face-svgrepo-com.svg</file>
+        <file>icons/crazy-face-svgrepo-com.svg</file>
+        <file>icons/crying-cat-svgrepo-com.svg</file>
+        <file>icons/disappointed-but-relieved-face-svgrepo-com.svg</file>
+        <file>icons/dog-face-svgrepo-com.svg</file>
+        <file>icons/emoji_icon_2.svg</file>
+        <file>icons/expressionless-face-svgrepo-com.svg</file>
+        <file>icons/face-blowing-a-kiss-svgrepo-com.svg</file>
+        <file>icons/face-savoring-food-svgrepo-com.svg</file>
+        <file>icons/face-with-hand-over-mouth-svgrepo-com.svg</file>
+        <file>icons/face-with-monocle-svgrepo-com.svg</file>
+        <file>icons/face-without-mouth-svgrepo-com.svg</file>
+        <file>icons/face-with-raised-eyebrow-svgrepo-com.svg</file>
+        <file>icons/face-with-rolling-eyes-svgrepo-com.svg</file>
+        <file>icons/face-with-spiral-eyes-svgrepo-com.svg</file>
+        <file>icons/face-with-steam-from-nose-svgrepo-com.svg</file>
+        <file>icons/face-with-stuck-out-tongue-svgrepo-com.svg</file>
+        <file>icons/face-with-tears-of-joy-svgrepo-com.svg</file>
+        <file>icons/face-with-thermometer-svgrepo-com.svg</file>
+        <file>icons/face-with-tongue-svgrepo-com.svg</file>
+        <file>icons/flushed-face-svgrepo-com.svg</file>
+        <file>icons/smiling-face-with-sunglasses-svgrepo-com.svg</file>
+        <file>icons/Twemoji_1f60e.svg.png</file>
+        <file>icons/smaile.svg</file>
+    </qresource>
+</RCC>
