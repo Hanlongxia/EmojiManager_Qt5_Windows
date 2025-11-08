@@ -1,0 +1,2 @@
+# EmojiManager_Qt5_Windows
+一个QT制作的表情包工具
